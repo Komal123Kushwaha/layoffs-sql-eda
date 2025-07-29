@@ -30,16 +30,16 @@ This project involves performing exploratory data analysis (EDA) on a cleaned da
 - Industries most affected by 100% layoffs
 
  ## 📈 Key Insights
-🔺 2023 had the highest layoffs across the dataset.
-🏢 Tech companies (e.g., Meta, Google) topped the layoffs list.
-🌍 The United States reported the most job cuts.
-⚠️ Over 20 companies completely shut down operations.
-📉 Layoffs saw a spike post-pandemic, indicating economic instability.
+- 🔺 2023 had the highest layoffs across the dataset.
+- 🏢 Tech companies (e.g., Meta, Google) topped the layoffs list.
+- 🌍 The United States reported the most job cuts.
+- ⚠️ Over 20 companies completely shut down operations.
+- 📉 Layoffs saw a spike post-pandemic, indicating economic instability.
 
 ## 📂 How to Use
-Clone the repository
-Import the dataset into MySQL Workbench
-Run the SQL queries provided in the sql_queries.sql file
+- Clone the repository
+- Import the dataset into MySQL Workbench
+- Run the SQL queries provided in the sql_queries.sql file
 (Optional) Export insights to Excel or Power BI for dashboards
 
 ## ✅ Outcome
